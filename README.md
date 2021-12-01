@@ -83,6 +83,8 @@ bgcolor="GREY">
 </html>
 ~~~
 ## output:
-![output]()
+![output](https://github.com/Saibandhavi75/timetable/blob/main/logo.png?raw=true)
 
 ![output](https://github.com/Saibandhavi75/timetable/blob/main/time%20table.PNG?raw=true)
+## RESULT:
+The program is executed.
