@@ -13,9 +13,10 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
+~~~
 <html>
- <head>
+<head>
 <title>TIME TABLE</title>
 </head>
 <body>
@@ -80,11 +81,8 @@ bgcolor="GREY">
       </table>
    </body>
 </html>
-
+~~~
 ## output:
-![output](https://github.com/Saibandhavi75/timetable/blob/main/logo.png?raw=true)
+![output]()
+
 ![output](https://github.com/Saibandhavi75/timetable/blob/main/time%20table.PNG?raw=true)
-
-
-
-
